@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "OmnideskSupport_TestPublic"
-    s.version      = "0.0.1"
+    s.version      = "0.0.2
     s.summary      = "OmnideskSupport_TestPublic #{s.version.to_s}"
     s.homepage     = "https://omnidesk.ru"
     s.license      = {
@@ -14,9 +14,14 @@ Pod::Spec.new do |s|
     s.author       = 'Omnidesk'
     s.platform     = :ios, '11.0'
     s.requires_arc = true
-    s.swift_version = '5'
+    s.swift_version = '5.0'
     s.cocoapods_version = '>= 1.10.0'
     s.source       = { :git => "https://github.com/sergstav/OmnideskSupportSDK_TestPublic.git", :tag => s.version }
-    s.dependency 'OmnideskCoreSDKPublicTest', '~> 2.5.1'
+    s.dependency 'OmnideskCoreSDKPublicTest', '~> 0.0.3'
+    s.dependency 'Socket.IO-Client-Swift', '~> 16.0.0'
+    s.dependency 'Moya', '~> 14.0'
+    s.dependency 'Lightbox'
+    s.dependency 'SDWebImage', '~> 5.0'
+    s.dependency 'SwiftyJSON', '~> 4.0'
     s.vendored_frameworks = 'OmnideskkSupportSDK.xcframework'
   end
