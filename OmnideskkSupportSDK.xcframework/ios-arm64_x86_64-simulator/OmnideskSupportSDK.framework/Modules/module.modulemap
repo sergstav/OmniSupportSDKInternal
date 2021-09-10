@@ -1,0 +1,4 @@
+framework module OmnideskSupportSDK {
+  header "OmnideskSupportSDK-Swift.h"
+  requires objc
+}
