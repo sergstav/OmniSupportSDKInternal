@@ -17,5 +17,6 @@ Pod::Spec.new do |s|
     s.swift_version = '5'
     s.cocoapods_version = '>= 1.10.0'
     s.source       = { :git => "https://github.com/sergstav/OmnideskSupportSDK_TestPublic.git", :tag => s.version }
+    s.dependency 'OmnideskCoreSDKPublicTest', '~> 2.5.1'
     s.vendored_frameworks = 'OmnideskkSupportSDK.xcframework'
   end
