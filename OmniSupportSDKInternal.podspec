@@ -25,5 +25,5 @@ Pod::Spec.new do |s|
     s.dependency 'Moya', '~> 14.0'  
     s.dependency 'Lightbox'
     s.dependency 'SDWebImage', '~> 5.0'
-    s.dependency 'SwiftyJSON', '~> 5.0.1
+    s.dependency 'SwiftyJSON', '~> 5.0.1'
   end
