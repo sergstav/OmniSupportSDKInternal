@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name          = 'OmniSupportSDKInternal'
     s.swift_version = '5.4'
-    s.version       = '0.0.10'
+    s.version       = '0.0.11'
     s.summary       = 'Omnidesk Support SDK Internal'
     s.license       = { :type => 'Commercial', :text => 'Omnidesk All rights reserved.' }
   
