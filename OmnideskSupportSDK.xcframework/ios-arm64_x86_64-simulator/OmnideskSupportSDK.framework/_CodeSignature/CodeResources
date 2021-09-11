@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		T5Y0dUrfXASfJsE8kvG8SB6bpM4=
+		zMM3Mlr3e9V2g6di5o0GlkvqgVg=
 		</data>
 		<key>Font Awesome 5 Brands-Regular-400.otf</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OJCSnOCDJfSF0jMzJeBRbjhr4A4=
+		8C89p+bSbnshnty4aH2OEY8DT5g=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		OJCSnOCDJfSF0jMzJeBRbjhr4A4=
+		8C89p+bSbnshnty4aH2OEY8DT5g=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7QrXRcycWtv7E9FQSXqxRKE+CqA=
+		9hpmWqqTCT3qFtBs7UH7y8S3BTU=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		7QrXRcycWtv7E9FQSXqxRKE+CqA=
+		9hpmWqqTCT3qFtBs7UH7y8S3BTU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -127,7 +127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			q3KwEujwV8Bt2CHL+waK18PNFqcxLYsL+1vTDCUkW58=
+			9svwyEf5HjMPEsw1SYivnY3idsvbFTEshxUwihMD+X8=
 			</data>
 		</dict>
 		<key>Font Awesome 5 Brands-Regular-400.otf</key>
@@ -183,7 +183,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TVEstLrQ+XjwRDyPjSu1wN3ERCuLkpbYVXCll43zrsc=
+			+P+nJV3N9xKk4oTgiGzdbIkq5trku03MgKNrj46x2y8=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftdoc</key>
@@ -204,7 +204,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TVEstLrQ+XjwRDyPjSu1wN3ERCuLkpbYVXCll43zrsc=
+			+P+nJV3N9xKk4oTgiGzdbIkq5trku03MgKNrj46x2y8=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -225,7 +225,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bip+mv24TYJm4FVgsFN3AaTPFWjZ5jiDaTnx+ZFJzrA=
+			kh2S+mBxx2bxc22MITx3ETP+GX9ZNz7Yd4qrHt4BoZ4=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftdoc</key>
@@ -246,7 +246,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bip+mv24TYJm4FVgsFN3AaTPFWjZ5jiDaTnx+ZFJzrA=
+			kh2S+mBxx2bxc22MITx3ETP+GX9ZNz7Yd4qrHt4BoZ4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

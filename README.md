@@ -1,1 +1,1 @@
-# OmnideskSupportSDK_TestPublic
+# OmniSupportSDKInternal
