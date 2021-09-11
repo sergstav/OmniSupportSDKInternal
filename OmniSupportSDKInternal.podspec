@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name          = 'OmniSupportSDKInternal'
-    s.swift_version = '5.0'
-    s.version       = '0.0.5'
+    s.swift_version = '5.4'
+    s.version       = '0.0.6'
     s.summary       = 'Omnidesk Support SDK Internal'
     s.license       = { :type => 'Commercial', :text => 'Omnidesk All rights reserved.' }
   
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
     s.module_map    = 'OmnideskSupportSDK.xcframework/ios-arm64/OmnideskSupportSDK.framework/Modules/module.modulemap'  
     s.preserve_paths = 'OmnideskSupportSDK.xcframework'
     s.vendored_frameworks = 'OmnideskSupportSDK.xcframework'
-    s.dependency 'OmnideskCoreSDKPublicTest', '~> 0.0.3'
+    s.dependency 'OmnideskCoreSDKPublicTest', '~> 0.0.4'
     #Socket
     s.dependency 'Socket.IO-Client-Swift', '~> 16.0.0'
   #Networking
