@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name          = 'OmniSupportSDKInternal'
     s.swift_version = '5.4'
-    s.version       = '0.0.20'
+    s.version       = '0.0.21'
     s.summary       = 'Omnidesk Support SDK Internal'
     s.license       = { :type => 'Commercial', :text => 'Omnidesk All rights reserved.' }
   
@@ -21,6 +21,4 @@ Pod::Spec.new do |s|
     s.dependency 'Lightbox'
     s.dependency 'SDWebImage', '~> 5.0'
     s.dependency 'SwiftyJSON', '~> 5.0.1'
-
-    s.frameworks    = 'Foundation'
   end
