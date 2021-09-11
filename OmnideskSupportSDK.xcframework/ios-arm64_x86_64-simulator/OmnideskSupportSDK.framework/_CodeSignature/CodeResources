@@ -20,6 +20,34 @@
 		<data>
 		PlUPkOo68fL2jZFt0k3gtzUoyrs=
 		</data>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/Info.plist</key>
+		<data>
+		Cgylf3ynOJrbLv2c2ikCtTvvLnM=
+		</data>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/Pods_OmnideskSupportSDK</key>
+		<data>
+		9GLWoCdC7t9OsGxUv7deSzG1jVE=
+		</data>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeDirectory</key>
+		<data>
+		kDb2zCW2By5bXnPwFfxtqlBPTxM=
+		</data>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		RBqM3MqYXETwrZqOyX/E7fgWCDY=
+		</data>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeResources</key>
+		<data>
+		g8/c4eJIoyXPNGaxF2ZgdGUsXNo=
+		</data>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
 		<key>Headers/OmnideskSupportSDK-Swift.h</key>
 		<data>
 		OJesMemzblp+XBSmuyVfauTxP7c=
@@ -149,6 +177,55 @@
 			<key>hash2</key>
 			<data>
 			7n5XvChB6Ep9IyBKUNdtLOfRSEyYMM8loTUkKJcMvU4=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8wrKbKVk5HRjiZk8qyhLlhoZG6B4X86CuJORIi7GddQ=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/Pods_OmnideskSupportSDK</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hh++fC08guYN9lyU+fqRi3pfmM9PAx6ZluUxsoSgXcY=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PX9mHYC1lrIpWlWRv/o3ii7I9xrJcpMhHYBtQbp2Pow=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MXQO4oppvJJ13w5RNbzIF0uMAhYoIRefmkpodloWEXw=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N6+5eQqKfG3dlVp7pr5sYM3N1TrjCTeZS9yI7659Qkg=
+			</data>
+		</dict>
+		<key>Frameworks/Pods_OmnideskSupportSDK.framework/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
 		<key>Headers/OmnideskSupportSDK-Swift.h</key>
