@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.19.104 clang-1300.0.18.4)
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
 // swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name OmnideskSupportSDK
 import AVFoundation
 import AVKit
@@ -21,24 +21,24 @@ import Swift
 import SwiftyJSON
 import UIKit
 import WebKit
-import _Concurrency
 extension FontAwesome {
   public static func fromCode(_ code: String) -> FontAwesome?
 }
-@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class FontAwesomeView : UIView {
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var iconCode: String {
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable public class FontAwesomeView : UIView {
+  @objc @IBInspectable public var iconCode: String {
     @objc get
     @objc set
   }
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var styleName: String
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder aDecoder: NSCoder)
+  @objc @IBInspectable public var styleName: String
+  @objc required dynamic public init?(coder aDecoder: NSCoder)
   @objc override dynamic public func prepareForInterfaceBuilder()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func tintColorDidChange()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func layoutSubviews()
+  @objc override dynamic public func tintColorDidChange()
+  @objc override dynamic public func layoutSubviews()
   @objc deinit
 }
 @objc final public class FormCustomField : NSObject {
   public init(id: Int64, required: Bool)
+  @objc override dynamic public init()
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers public class AsyncAppealConfiguration : NSObject {
@@ -50,15 +50,15 @@ extension FontAwesome {
   @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class FontAwesomeSegmentedControl : UISegmentedControl {
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var isFontAwesomeCSSCode: Bool
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var styleName: String
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var size: CGFloat
+@objc @_inheritsConvenienceInitializers @IBDesignable public class FontAwesomeSegmentedControl : UISegmentedControl {
+  @objc @IBInspectable public var isFontAwesomeCSSCode: Bool
+  @objc @IBInspectable public var styleName: String
+  @objc @IBInspectable public var size: CGFloat
   @objc override dynamic public func awakeFromNib()
   @objc override dynamic public func prepareForInterfaceBuilder()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreGraphics.CGRect)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(items: [Any]?)
+  @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc override dynamic public init(items: [Any]?)
   @objc deinit
 }
 public enum FontAwesome : String, CaseIterable {
@@ -2005,29 +2005,29 @@ public enum FontAwesomeBrands : String {
     get
   }
 }
-@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class FontAwesomeImageView : UIImageView {
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var cssCode: String
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var imageColor: UIColor
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var imageBackgroundColor: UIColor
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var styleName: String
+@objc @_inheritsConvenienceInitializers @IBDesignable public class FontAwesomeImageView : UIImageView {
+  @objc @IBInspectable public var cssCode: String
+  @objc @IBInspectable public var imageColor: UIColor
+  @objc @IBInspectable public var imageBackgroundColor: UIColor
+  @objc @IBInspectable public var styleName: String
   @objc override dynamic public func awakeFromNib()
   @objc override dynamic public func prepareForInterfaceBuilder()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(image: UIKit.UIImage?)
+  @objc override dynamic public init(image: UIKit.UIImage?)
   @available(iOS 3.0, *)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(image: UIKit.UIImage?, highlightedImage: UIKit.UIImage?)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreGraphics.CGRect)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc override dynamic public init(image: UIKit.UIImage?, highlightedImage: UIKit.UIImage?)
+  @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class FontAwesomeTabBarItem : UITabBarItem {
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var iconName: String
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var selectedIconName: String
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var size: CGFloat
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var styleName: String
+@objc @_inheritsConvenienceInitializers @IBDesignable public class FontAwesomeTabBarItem : UITabBarItem {
+  @objc @IBInspectable public var iconName: String
+  @objc @IBInspectable public var selectedIconName: String
+  @objc @IBInspectable public var size: CGFloat
+  @objc @IBInspectable public var styleName: String
   @objc override dynamic public func awakeFromNib()
   @objc override dynamic public func prepareForInterfaceBuilder()
   @objc override dynamic public init()
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers final public class OmniSupportUI : NSObject {
@@ -2041,14 +2041,14 @@ public enum FontAwesomeBrands : String {
   @objc override dynamic public init()
   @objc deinit
 }
-@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class FontAwesomeBarButtonItem : UIBarButtonItem {
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var isFontAwesomeCSSCode: Bool
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var styleName: String
-  @objc @IBInspectable @_Concurrency.MainActor(unsafe) public var size: CGFloat
+@objc @_inheritsConvenienceInitializers @IBDesignable public class FontAwesomeBarButtonItem : UIBarButtonItem {
+  @objc @IBInspectable public var isFontAwesomeCSSCode: Bool
+  @objc @IBInspectable public var styleName: String
+  @objc @IBInspectable public var size: CGFloat
   @objc override dynamic public func awakeFromNib()
   @objc override dynamic public func prepareForInterfaceBuilder()
   @objc override dynamic public init()
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
 public struct SupportChannel {
@@ -2139,16 +2139,16 @@ extension FontAwesome {
   @objc override dynamic public init()
   @objc deinit
 }
-extension FontAwesome : Swift.Equatable {}
-extension FontAwesome : Swift.Hashable {}
-extension FontAwesome : Swift.RawRepresentable {}
-extension FontAwesomeBrands : Swift.Equatable {}
-extension FontAwesomeBrands : Swift.Hashable {}
-extension FontAwesomeBrands : Swift.RawRepresentable {}
-extension HelpCenterOptions : Swift.Equatable {}
-extension HelpCenterOptions : Swift.Hashable {}
-extension SupportChannelType : Swift.Equatable {}
-extension SupportChannelType : Swift.Hashable {}
-extension FontAwesomeStyle : Swift.Equatable {}
-extension FontAwesomeStyle : Swift.Hashable {}
-extension FontAwesomeStyle : Swift.RawRepresentable {}
+extension OmnideskSupportSDK.FontAwesome : Swift.Equatable {}
+extension OmnideskSupportSDK.FontAwesome : Swift.Hashable {}
+extension OmnideskSupportSDK.FontAwesome : Swift.RawRepresentable {}
+extension OmnideskSupportSDK.FontAwesomeBrands : Swift.Equatable {}
+extension OmnideskSupportSDK.FontAwesomeBrands : Swift.Hashable {}
+extension OmnideskSupportSDK.FontAwesomeBrands : Swift.RawRepresentable {}
+extension OmnideskSupportSDK.HelpCenterOptions : Swift.Equatable {}
+extension OmnideskSupportSDK.HelpCenterOptions : Swift.Hashable {}
+extension OmnideskSupportSDK.SupportChannelType : Swift.Equatable {}
+extension OmnideskSupportSDK.SupportChannelType : Swift.Hashable {}
+extension OmnideskSupportSDK.FontAwesomeStyle : Swift.Equatable {}
+extension OmnideskSupportSDK.FontAwesomeStyle : Swift.Hashable {}
+extension OmnideskSupportSDK.FontAwesomeStyle : Swift.RawRepresentable {}

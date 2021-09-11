@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		zMM3Mlr3e9V2g6di5o0GlkvqgVg=
+		IryHYv+jy+VrJX+OQ60jXjIXBqI=
 		</data>
 		<key>Font Awesome 5 Brands-Regular-400.otf</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>Headers/OmnideskSupportSDK-Swift.h</key>
 		<data>
-		MDt4tr7MFGkfgImrPM18RfVOvSc=
+		OJesMemzblp+XBSmuyVfauTxP7c=
 		</data>
 		<key>Headers/SupportSDK.h</key>
 		<data>
@@ -30,55 +30,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		IlTiz315mCVb8jbDq2rLOhYX0Jk=
+		guTHv/Rj/J1IGOgZbcV5C3ZZCjA=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		CukCl0/4BoeM6q1QVc3j1HYIrWQ=
+		6fXyBj9LT7Wk+lETX9lQK8S0TfA=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		RuXuARfp5Ra+TkJr73HQ/zlQ3TM=
+		2YZPDNrWZFo4WlwB+UWTyPIhsYs=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8C89p+bSbnshnty4aH2OEY8DT5g=
+		TcO+MYBc94QxraBep5A661jsvzs=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		CukCl0/4BoeM6q1QVc3j1HYIrWQ=
+		6fXyBj9LT7Wk+lETX9lQK8S0TfA=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		RuXuARfp5Ra+TkJr73HQ/zlQ3TM=
+		2YZPDNrWZFo4WlwB+UWTyPIhsYs=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		8C89p+bSbnshnty4aH2OEY8DT5g=
+		TcO+MYBc94QxraBep5A661jsvzs=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pKZWrSn8vrnyJkGacwHmIpkBfDY=
+		hMPVLPsYj1nn++x12PMyq+E0CK4=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1oHO11VCys8PqxdSHvHW6/1mVOg=
+		f7Z3gz7jGxKk+WQG2Y7vAmbyI0s=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		9hpmWqqTCT3qFtBs7UH7y8S3BTU=
+		zR4RR2pJefaGhUq6W1R3+6DTQPc=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		pKZWrSn8vrnyJkGacwHmIpkBfDY=
+		hMPVLPsYj1nn++x12PMyq+E0CK4=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		1oHO11VCys8PqxdSHvHW6/1mVOg=
+		f7Z3gz7jGxKk+WQG2Y7vAmbyI0s=
 		</data>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		9hpmWqqTCT3qFtBs7UH7y8S3BTU=
+		zR4RR2pJefaGhUq6W1R3+6DTQPc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -127,7 +127,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9svwyEf5HjMPEsw1SYivnY3idsvbFTEshxUwihMD+X8=
+			Ygfk4s313GD0OtQKzJFiEVIa2vVC+ka6j6Q1eYgKlt4=
 			</data>
 		</dict>
 		<key>Font Awesome 5 Brands-Regular-400.otf</key>
@@ -155,7 +155,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/ALyU5Rd9y2XkgxAQap5xYVT35MxVITxdQYcy8brr8=
+			/W6WU6QeR27wkRMsezQ3pnc4ScM5B1+9hAJvLvocmiI=
 			</data>
 		</dict>
 		<key>Headers/SupportSDK.h</key>
@@ -169,84 +169,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CQcW1GVPR/6IvRsSJt75ZNdFnqWiEXK+dpnDUs52e8A=
+			AJ1gCkQRT7DsgGDskWEeTWNNxjHc0SNyi7ax/uSJwCE=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gxFgcqUuJ9K52gRrAg6G4jJPJMnH5cbR96zIzD9o3LA=
+			gwwCMy4nDQuv9bizBaU7ZofZ4KkvTwKKUbWcqYdSo+I=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+P+nJV3N9xKk4oTgiGzdbIkq5trku03MgKNrj46x2y8=
+			PNKvEqUJynAOmezZkfWc73mn7fDtSzB4S7xZr8VpaWM=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CQcW1GVPR/6IvRsSJt75ZNdFnqWiEXK+dpnDUs52e8A=
+			AJ1gCkQRT7DsgGDskWEeTWNNxjHc0SNyi7ax/uSJwCE=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gxFgcqUuJ9K52gRrAg6G4jJPJMnH5cbR96zIzD9o3LA=
+			gwwCMy4nDQuv9bizBaU7ZofZ4KkvTwKKUbWcqYdSo+I=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+P+nJV3N9xKk4oTgiGzdbIkq5trku03MgKNrj46x2y8=
+			PNKvEqUJynAOmezZkfWc73mn7fDtSzB4S7xZr8VpaWM=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			37gFjJgkWkxhUH6kGA5ES8RsLXi0rXToJnKMRvae2ZU=
+			HLQj8PZ+41tOZCJ+AKhLiabkHCuR08DNPmoEZ4RTALQ=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IfP6cCA5jh7AC1EaujZPmrt1hvfX3i+QxRwVVEmncSA=
+			aHj3ssG+w8uh/wZClBoyzmJOSI4fIi4whmu9WZeXgu8=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kh2S+mBxx2bxc22MITx3ETP+GX9ZNz7Yd4qrHt4BoZ4=
+			mgBArQ7kLeIhLYRk9JCnU55bGZEnWnRSMv+YlxsW5xo=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			37gFjJgkWkxhUH6kGA5ES8RsLXi0rXToJnKMRvae2ZU=
+			HLQj8PZ+41tOZCJ+AKhLiabkHCuR08DNPmoEZ4RTALQ=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IfP6cCA5jh7AC1EaujZPmrt1hvfX3i+QxRwVVEmncSA=
+			aHj3ssG+w8uh/wZClBoyzmJOSI4fIi4whmu9WZeXgu8=
 			</data>
 		</dict>
 		<key>Modules/OmnideskSupportSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kh2S+mBxx2bxc22MITx3ETP+GX9ZNz7Yd4qrHt4BoZ4=
+			mgBArQ7kLeIhLYRk9JCnU55bGZEnWnRSMv+YlxsW5xo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
