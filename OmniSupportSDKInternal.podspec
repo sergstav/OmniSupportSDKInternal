@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
     s.name          = 'OmniSupportSDKInternal'
     s.swift_version = '5.4'
-    s.version       = '0.0.21'
+    s.version       = '0.0.22'
     s.summary       = 'Omnidesk Support SDK Internal'
     s.license       = { :type => 'Commercial', :text => 'Omnidesk All rights reserved.' }
   
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     s.source        = { :git => 'https://github.com/sergstav/OmniSupportSDKInternal.git', :tag => s.version }
 
     s.vendored_frameworks = 'OmnideskSupportSDK.xcframework'
-    s.dependency 'OmnideskCoreSDKPublicTest'
+    s.dependency 'OmnideskCoreSDKPublicTest', '~> 0.0.5'
     s.dependency 'Socket.IO-Client-Swift', '~> 16.0.0'
     s.dependency 'Moya', '~> 14.0'  
     s.dependency 'Lightbox'
