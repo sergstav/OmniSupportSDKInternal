@@ -19,4 +19,11 @@ Pod::Spec.new do |s|
     s.preserve_paths = 'OmnideskSupportSDK.xcframework'
     s.vendored_frameworks = 'OmnideskSupportSDK.xcframework'
     s.dependency 'OmnideskCoreSDKPublicTest', '~> 0.0.3'
+    #Socket
+    s.dependency 'Socket.IO-Client-Swift', '~> 16.0.0'
+  #Networking
+    s.dependency 'Moya', '~> 14.0'  
+    s.dependency 'Lightbox'
+    s.dependency 'SDWebImage', '~> 5.0'
+    s.dependency 'SwiftyJSON', '~> 4.0'
   end
